@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/company/103513391/admin/page-posts/published/](https://www.linkedin.com/company/103513391/admin/page-posts/published/)
 
-- 💬 Ask me about **Digital Transformation**
+- 💬 Ask me about **Digital Transformation and QA**
 
 - 📫 How to reach me **mponguta@yahoo.com**
 
