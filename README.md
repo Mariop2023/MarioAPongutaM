@@ -1,52 +1,68 @@
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta" src="https://github.com/user-attachments/assets/5cd71fa0-db14-4a61-b5cf-287cd5567e4f" />
-
-# MarioAPongutaM
-<h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
-<h3 align="center">| PROJECT MANAGEMENT | QA | AI | BUSINESS DIGITAL TRANSFORMATION | INTERNATIONAL BUSINESS | FOUNDER | QATURN | CARRO SIN ROLLOS |</h3>
-
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/8f3e2096-2cf9-45c8-8116-43200882242e" />
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/f3be51a7-028d-45e5-a700-7741bb5a517b" />
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/8fcaebe0-455f-4dd0-acdc-983f37f2bd06" />
-
-
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/c79fbf7d-bea9-44fb-828e-6fb6569f6baf" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariop2023&label=Profile%20views&color=0e75b6&style=flat" alt="mariop2023" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariop2023" alt="mariop2023" /></a> </p>
-
-- 🔭 I’m currently working on ((http://carrosinrollos.com.co/))
-
-- 🌱 I’m currently learning **QA Engineer / AI Agent**
-
-- 👯 I’m looking to collaborate on (https://bit.ly/3WB2Amg)
-- 🤝 I’m looking for help with **QA Automation**
-
-- 👨‍💻 Current projects are available at [https://github.com/Mariop2023/MarioAPongutaM/projects](https://github.com/Mariop2023/MarioAPongutaM/projects)
-
-- 👨‍💻 Other projects are available at [https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch?utlId=h2bda2541d6)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/company/103513391/admin/page-posts/published/](https://www.linkedin.com/company/103513391/admin/page-posts/published/)
-
-- 💬 Ask me about **Digital Transformation and QA**
-
-- 📫 How to reach me **mponguta@yahoo.com**
-
-- 📄 Know about my experience [https://www.linkedin.com/in/mario-alberto-pongut%C3%A1-monroy-82aba235/](https://www.linkedin.com/in/mario-alberto-pongut%C3%A1-monroy-82aba235/)
-
-- ⚡ Fun fact **I wrote a book about Next Generation Combat Aircraft**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-alberto-pongut%c3%a1-monroy-82aba235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-alberto-pongut%c3%a1-monroy-82aba235/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mariopongutam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mariopongutam" height="30" width="40" /></a>
-<a href="https://instagram.com/carrosinrollos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carrosinrollos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@qaturn-p6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@qaturn-p6v" height="30" width="40" /></a>
-<a href="https://discord.gg/marioponguta_23864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marioponguta_23864" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cd71fa0-db14-4a61-b5cf-287cd5567e4f" alt="Banner Principal Mario Ponguta" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
+<h3 align="center">IT Project Manager | QA Engineer | AI & Digital Transformation | Founder</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Opcional: Descomenta las siguientes líneas para agregar estadísticas dinámicas -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mariop2023&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariop2023&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" /> -->
+</p>
 
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/a387a004-f9ec-41a3-bba1-983f9c69a377" />
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/b1d73d74-6284-4bc3-9bf7-77ddcb0138de" />
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/5c748858-02c2-4b84-ab97-894d0c2b1f46" />
+
+
+### 🚀 Current Focus
+- 🔭 **Working on**: [Carro Sin Rollos](http://carrosinrollos.com.co/) (Controlled Launch 2026)
+- 🌱 **Learning**: QA Automation & AI Agents
+- 🤝 **Looking to collaborate on**: [QATURN Sales Assistant AI](https://bit.ly/3WB2Amg)
+- 💬 **Ask me about**: Digital Transformation, Agile/Scrum, API Testing & QA Strategy
+
+### 📂 Featured Projects
+- 👨‍💻 [Current Projects Board](https://github.com/Mariop2023/MarioAPongutaM/projects)
+- 🎨 [Portfolio & Visual Presentations](https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch)
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <!-- Gestión & QA -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <!-- Automatización & IA -->
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+  <!-- Frontend & Diseño (para contexto de pruebas) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <!-- Cloud & Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c79fbf7d-bea9-44fb-828e-6fb6569f6baf" alt="Tools Banner" width="100%" />
+</p>
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mario-alberto-ponguta-monroy-82aba235/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/mariopongutam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/carrosinrollos" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:mponguta@yahoo.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <em>⚡ Fun fact: I wrote a book about <strong>Next Generation Combat Aircraft</strong>.</em>
+</p>
