@@ -12,8 +12,7 @@
 
 - 🌱 I’m currently learning **QA Engineer / Agentes de IA**
 
-- 👯 I’m looking to collaborate on (http://qaturn.co/?i=2&fbclid=IwY2xjawVi4xBleHRuA2FlbQIxMABwZG9mAWJyaWQRMUlvQU1RRDV1N3R5cm9MT3dzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfQZY5jk8CXm63TpLc7OL3WQxVl5NvlKN3hbeUgWQBkvk48uLKRjJQgJcSER8_aem_igbywGY8Gh3OUtufRmlbeQ))
-
+- 👯 I’m looking to collaborate on (https://bit.ly/3WB2Amg)
 - 🤝 I’m looking for help with **QA Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mariop2023/MarioAPongutaM/projects](https://github.com/Mariop2023/MarioAPongutaM/projects)
