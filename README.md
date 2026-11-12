@@ -4,6 +4,20 @@
 <h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
 <h3 align="center">| PROJECT MANAGEMENT | QA | AI | BUSINESS DIGITAL TRANSFORMATION | INTERNATIONAL BUSINESS | FOUNDER | QATURN | CARRO SIN ROLLOS |</h3>
 
+Core Technical & QA Skills 
+
+REST API Testing: Proficient in validating endpoints (GET, POST, PUT, DELETE), JSON payloads, and HTTP status codes using Postman.
+
+API Integration: Experienced in testing system connectivity, including webhook validation (e.g., Wompi) and complex payload structures.
+Root Cause Analysis: Goes beyond surface-level bug detection (e.g., generic 400 errors, lack of idempotency) to investigate and identify the underlying cause of system failures.
+
+Debugging & Edge Case Identification: Skilled at isolating issues, analyzing API responses, and proactively uncovering "gray areas" in acceptance criteria.
+Requirements Translation: Proven ability to translate business requirements and Figma designs into structured, actionable test cases and checklists.
+
+Technical Documentation: Maintains a robust, professional documentation strategy (Notion as Single Source of Truth, Jira for execution, Google Sheets for raw data, and immutable HTML/PDF reports).
+
+Technical Diagnostics & UX Analysis: Capable of evaluating frontend applications to diagnose flaws in user flows, UI/UX, and overall value proposition.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariop2023&label=Profile%20views&color=0e75b6&style=flat" alt="mariop2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariop2023" alt="mariop2023" /></a> </p>
