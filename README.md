@@ -12,7 +12,7 @@
 </p>
 
 
-<img width="1280" height="354" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/e047c63d-ab0a-4044-ad02-034246a7a3a7" />
+<img width="1280" height="352" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/bd80ea80-430d-4491-b1ca-32649cdeb8db" />
 <img width="1280" height="318" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/ee5da2ab-6d83-49b7-b006-e35dd9fcd879" />
 <img width="1280" height="270" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/166d0104-911d-40ae-a335-6bc9e889fc55" />
 
