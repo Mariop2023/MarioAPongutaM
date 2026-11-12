@@ -23,8 +23,7 @@
 - 👯 I’m looking to collaborate on (https://bit.ly/3WB2Amg)
 - 🤝 I’m looking for help with **QA Automation**
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f9c21ff0-627d-4d36-bf2f-f65f88501f2e" />
- Current projects are available at [https://github.com/Mariop2023/MarioAPongutaM/projects](https://github.com/Mariop2023/MarioAPongutaM/projects)
+- 👨‍💻 Current projects are available at [https://github.com/Mariop2023/MarioAPongutaM/projects](https://github.com/Mariop2023/MarioAPongutaM/projects)
 
 - 👨‍💻 Other projects are available at [https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch?utlId=h2bda2541d6)
 
