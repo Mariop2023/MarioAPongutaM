@@ -1,3 +1,5 @@
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta" src="https://github.com/user-attachments/assets/5cd71fa0-db14-4a61-b5cf-287cd5567e4f" />
+
 # MarioAPongutaM
 <h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
 <h3 align="center">| PROJECT MANAGEMENT | QA | AI | BUSINESS DIGITAL TRANSFORMATION | INTERNATIONAL BUSINESS | FOUNDER | QATURN | CARRO SIN ROLLOS |</h3>
