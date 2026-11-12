@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mariop2023/MarioAPongutaM/projects](https://github.com/Mariop2023/MarioAPongutaM/projects)
 
+- 👨‍💻 Other projects are available at [https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch?utlId=h2bda2541d6)
+
 - 📝 I regularly write articles on [https://www.linkedin.com/company/103513391/admin/page-posts/published/](https://www.linkedin.com/company/103513391/admin/page-posts/published/)
 
 - 💬 Ask me about **Digital Transformation**
