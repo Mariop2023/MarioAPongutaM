@@ -5,12 +5,12 @@
 <h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
 <h3 align="center">IT Project Manager | QA Engineer | AI & Digital Transformation | Founder</h3>
 
-
 <p align="center">
   <!-- Opcional: Descomenta las siguientes líneas para agregar estadísticas dinámicas -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mariop2023&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" /> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariop2023&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" /> -->
 </p>
+
 
 <img width="1280" height="316" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/46b1f19f-e018-47a3-a936-7764d94d554c" />
 <img width="1280" height="318" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/ee5da2ab-6d83-49b7-b006-e35dd9fcd879" />
