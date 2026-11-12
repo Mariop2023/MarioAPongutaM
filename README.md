@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **QA Engineer / Agentes de IA**
 
-- 👯 I’m looking to collaborate on [QATURN Sales Assistant](QATURN.co)
+- 👯 I’m looking to collaborate on (https://QATURN.co)
 
 - 🤝 I’m looking for help with **QA Automation**
 
