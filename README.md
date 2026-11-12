@@ -18,6 +18,9 @@ Technical Documentation: Maintains a robust, professional documentation strategy
 
 Technical Diagnostics & UX Analysis: Capable of evaluating frontend applications to diagnose flaws in user flows, UI/UX, and overall value proposition.
 
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/c79fbf7d-bea9-44fb-828e-6fb6569f6baf" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariop2023&label=Profile%20views&color=0e75b6&style=flat" alt="mariop2023" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariop2023" alt="mariop2023" /></a> </p>
@@ -51,8 +54,6 @@ Technical Diagnostics & UX Analysis: Capable of evaluating frontend applications
 <a href="https://www.youtube.com/c/@qaturn-p6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@qaturn-p6v" height="30" width="40" /></a>
 <a href="https://discord.gg/marioponguta_23864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marioponguta_23864" height="30" width="40" /></a>
 </p>
-
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/685034bc-e96d-44e7-b1d5-3a98754aefc4" />
 
 
 <h3 align="left">Languages and Tools:</h3>
