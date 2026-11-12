@@ -5,9 +5,7 @@
 <h3 align="center">| PROJECT MANAGEMENT | QA | AI | BUSINESS DIGITAL TRANSFORMATION | INTERNATIONAL BUSINESS | FOUNDER | QATURN | CARRO SIN ROLLOS |</h3>
 
 <img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/8f3e2096-2cf9-45c8-8116-43200882242e" />
-
 <img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/f3be51a7-028d-45e5-a700-7741bb5a517b" />
-
 <img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/8fcaebe0-455f-4dd0-acdc-983f37f2bd06" />
 
 
