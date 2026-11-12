@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ((http://carrosinrollos.com.co/))
 
-- 🌱 I’m currently learning **QA Engineer / Agentes de IA**
+- 🌱 I’m currently learning **QA Engineer / AI Agent**
 
 - 👯 I’m looking to collaborate on (https://bit.ly/3WB2Amg)
 - 🤝 I’m looking for help with **QA Automation**
