@@ -36,7 +36,7 @@
 <a href="https://discord.gg/marioponguta_23864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marioponguta_23864" height="30" width="40" /></a>
 </p>
 
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/c2053f62-1128-4bbd-971d-ea72f435d008" />
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/685034bc-e96d-44e7-b1d5-3a98754aefc4" />
 
 
 <h3 align="left">Languages and Tools:</h3>
