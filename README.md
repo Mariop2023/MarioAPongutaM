@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariop2023&show_icons=true&locale=en&layout=compact" alt="mariop2023" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariop2023&show_icons=true&locale=en" alt="mariop2023" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariop2023&show_icons=true&locale=en" alt="MarioAPongutaM" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariop2023&" alt="mariop2023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariop2023&" alt="MarioAPongutaM" /></p>
