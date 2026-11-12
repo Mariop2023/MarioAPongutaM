@@ -4,19 +4,8 @@
 <h1 align="center">Hi 👋, I'm Mario Alberto Ponguta Monroy</h1>
 <h3 align="center">| PROJECT MANAGEMENT | QA | AI | BUSINESS DIGITAL TRANSFORMATION | INTERNATIONAL BUSINESS | FOUNDER | QATURN | CARRO SIN ROLLOS |</h3>
 
-Core Technical & QA Skills 
+<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech" src="https://github.com/user-attachments/assets/97ff364a-51d8-422a-a42f-5dc97fab1b76" />
 
-REST API Testing: Proficient in validating endpoints (GET, POST, PUT, DELETE), JSON payloads, and HTTP status codes using Postman.
-
-API Integration: Experienced in testing system connectivity, including webhook validation (e.g., Wompi) and complex payload structures.
-Root Cause Analysis: Goes beyond surface-level bug detection (e.g., generic 400 errors, lack of idempotency) to investigate and identify the underlying cause of system failures.
-
-Debugging & Edge Case Identification: Skilled at isolating issues, analyzing API responses, and proactively uncovering "gray areas" in acceptance criteria.
-Requirements Translation: Proven ability to translate business requirements and Figma designs into structured, actionable test cases and checklists.
-
-Technical Documentation: Maintains a robust, professional documentation strategy (Notion as Single Source of Truth, Jira for execution, Google Sheets for raw data, and immutable HTML/PDF reports).
-
-Technical Diagnostics & UX Analysis: Capable of evaluating frontend applications to diagnose flaws in user flows, UI/UX, and overall value proposition.
 
 <img width="1280" height="400" alt="Banner GITHUB Mario Ponguta tools" src="https://github.com/user-attachments/assets/c79fbf7d-bea9-44fb-828e-6fb6569f6baf" />
 
