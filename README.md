@@ -11,10 +11,9 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariop2023&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" /> -->
 </p>
 
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/a387a004-f9ec-41a3-bba1-983f9c69a377" />
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/b1d73d74-6284-4bc3-9bf7-77ddcb0138de" />
-<img width="1280" height="400" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/5c748858-02c2-4b84-ab97-894d0c2b1f46" />
-
+<img width="1280" height="316" alt="Banner GITHUB Mario Ponguta skills tech 1" src="https://github.com/user-attachments/assets/46b1f19f-e018-47a3-a936-7764d94d554c" />
+<img width="1280" height="318" alt="Banner GITHUB Mario Ponguta skills tech 2" src="https://github.com/user-attachments/assets/ee5da2ab-6d83-49b7-b006-e35dd9fcd879" />
+<img width="1280" height="270" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/166d0104-911d-40ae-a335-6bc9e889fc55" />
 
 ### 🚀 Current Focus
 - 🔭 **Working on**: [Carro Sin Rollos](http://carrosinrollos.com.co/) (Controlled Launch 2026)
