@@ -26,6 +26,67 @@
 - 👨‍💻 [Current Projects Board](https://github.com/Mariop2023/MarioAPongutaM/projects)
 - 🎨 [Portfolio & Visual Presentations](https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch)
 
+# 📂 Portafolio de Proyectos
+
+Selección de proyectos destacados en Gestión de Proyectos, Transformación Digital, QA e Innovación. 
+
+> ⚠️ *Nota: Algunos proyectos en curso se encuentran bajo acuerdos de confidencialidad (NDA) y no se detallan en este portafolio público.*
+
+---
+
+## 🚀 Proyectos de Tecnología e IA
+
+### **QATURN Sales Assistant AI**
+- **Rol:** Product Owner | Project Manager | QA Manual  
+- **Período:** 2024 – Actualidad  
+- **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos, preparar respuestas y automatizar el seguimiento comercial.  
+- **Impacto:** Integración con CRM para escalar las ventas entre un 25% y 30%.  
+- **Stack & Herramientas:** ChatGPT, Make (automatización de APIs), Netlify, Jira, Notion.  
+- **Contribución QA:** Gestión de backlog, diseño de casos de prueba, ejecución de pruebas de API (Postman) y seguimiento de defectos hasta la entrega.
+
+---
+
+## 🏥 Proyectos de Salud Digital (HealthTech)
+
+### **Plataforma Digital Health Travel**
+- **Rol:** Project Manager  
+- **Aliados:** Mincomercio, Bancoldex, DNP, Colciencias  
+- **Descripción:** Desarrollo de un portal especializado en Turismo de Salud en el marco del Programa de Encadenamiento Productivo.  
+- **Impacto:** Contribución a la digitalización del sector salud y a la meta de generación de empleo en el marco de la política pública de Telemedicina.
+
+### **Dispositivo de Telemedicina y Home Care (Innpulsa - Mipyme)**
+- **Rol:** Project Manager / Innovación  
+- **Descripción:** Diseño y desarrollo de un dispositivo de Telemedicina, incluyendo la integración de aplicaciones móviles e interfaces con otras soluciones MHealth y dispositivos biomédicos.
+
+---
+
+## 💡 Proyectos de Innovación Corporativa
+
+### **Plataforma Digital de Aprendizaje Autónomo Interactiva (Belcorp)**
+- **Rol:** Consultor de Innovación y Proyectos  
+- **Programa:** Innpulsa Colombia (Encadenamiento Productivo)  
+- **Descripción:** Solución de aprendizaje autónomo (online/offline) para capacitar de manera oportuna y efectiva a más de 1 millón de vendedoras sobre nuevos productos.  
+- **Impacto:** Objetivo cumplido de incrementar las ventas en un 2%, fomentando el empoderamiento y desarrollo de habilidades en marketing, ventas y liderazgo.
+
+### **Nueva Experiencia en Protección Solar (Belcorp)**
+- **Rol:** Consultor de Innovación  
+- **Descripción:** Desarrollo conceptual y de alianzas para una nueva línea de productos dermo-compatibles, incluyendo un protector solar y un spray para ropa con materias primas encapsuladas de aplicación específica.
+
+---
+
+## ⚙️ Proyectos de Calidad y Procesos
+
+### **Certificación ISO 9001:2008 - Biosistemas Ingeniería Médica SAS**
+- **Rol:** Consultor de Proyectos y Calidad  
+- **Descripción:** Acompañamiento integral, estructuración de procesos y documentación técnica hasta la obtención exitosa de la certificación ISO 9001:2008 para comercialización, mantenimiento y renta de equipo biomédico.
+
+---
+
+## 🛠️ Habilidades Técnicas Aplicadas en Proyectos
+- **QA & Testing:** Pruebas de API (REST, Webhooks), Postman, diseño de casos de prueba, identificación de zonas grises y reportes de bugs (formato Jira).
+- **Gestión:** Scrum, Agile, Jira, Notion (Single Source of Truth), Power BI.
+- **Documentación:** Traducción de requisitos de negocio y diseños Figma en checklists y casos de prueba estructurados.
+
 ### 🛠️ Languages & Tools
 <p align="left">
   <!-- Gestión & QA -->
