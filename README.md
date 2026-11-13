@@ -47,7 +47,7 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 ### **QATURN Sales Assistant AI**
 - **Rol:** Product Owner | Project Manager | QA Manual  
 - **Período:** 2024 – Actualidad  
-- **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos
+- **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos, preparar respuestas y automatizar el seguimiento comercial con IA y QA para escalar sus ventas entre un 25% y un 30%. Integrable con su CRM actual.
 
 # 📂 Portafolio de Proyectos
 
