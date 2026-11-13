@@ -48,6 +48,54 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 - **Rol:** Product Owner | Project Manager | QA Manual  
 - **Período:** 2024 – Actualidad  
 - **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos
+
+# 📂 Portafolio de Proyectos
+
+Selección de proyectos destacados en Gestión de Proyectos, Transformación Digital, QA e Innovación. 
+
+---
+
+## 🏥 Proyectos de Salud Digital (HealthTech)
+
+### **Plataforma Digital Health Travel**
+- **Rol:** Project Manager  
+- **Aliados:** Mincomercio, Bancoldex, DNP, Colciencias  
+- **Descripción:** Desarrollo de un portal especializado en Turismo de Salud en el marco del Programa de Encadenamiento Productivo, contribuyendo a la digitalización del sector y a la generación de empleo.
+
+### **Dispositivo de Telemedicina y Home Care (Innpulsa - Mipyme)**
+- **Rol:** Project Manager / Innovación  
+- **Descripción:** Diseño y desarrollo de un dispositivo de Telemedicina, incluyendo la integración de aplicaciones móviles e interfaces con soluciones MHealth y dispositivos biomédicos.
+
+---
+
+## 💡 Proyectos de Innovación Corporativa
+
+### **Plataforma Digital de Aprendizaje Autónomo Interactiva (Belcorp)**
+- **Rol:** Consultor de Innovación y Proyectos  
+- **Programa:** Innpulsa Colombia (Encadenamiento Productivo)  
+- **Descripción:** Solución de aprendizaje (online/offline) para capacitar a más de 1 millón de vendedoras sobre nuevos productos.  
+- **Impacto:** Logro del objetivo de incrementar las ventas en un 2%, fomentando el empoderamiento y desarrollo de habilidades en marketing, ventas y liderazgo.
+
+### **Nueva Experiencia en Protección Solar (Belcorp)**
+- **Rol:** Consultor de Innovación  
+- **Descripción:** Desarrollo conceptual y gestión de alianzas estratégicas para una nueva línea de productos dermo-compatibles, incluyendo activos sinérgicos para piel y ropa.
+
+---
+
+## ⚙️ Proyectos de Calidad y Procesos
+
+### **Certificación ISO 9001:2008 - Biosistemas Ingeniería Médica SAS**
+- **Rol:** Consultor de Proyectos y Calidad  
+- **Descripción:** Acompañamiento integral, estructuración de procesos y documentación técnica hasta la obtención exitosa de la certificación ISO 9001:2008 para comercialización, mantenimiento y renta de equipo biomédico.
+
+---
+
+## 🛠️ Habilidades Técnicas Aplicadas en Proyectos
+- **Gestión de Proyectos:** Scrum, Agile, Kanban, Jira, Notion (Single Source of Truth), Power BI.
+- **QA & Testing:** Diseño de casos de prueba, pruebas de API (REST, Webhooks), Postman, identificación de zonas grises y reportes de bugs estructurados.
+- **Documentación:** Traducción de requisitos de negocio y diseños Figma en checklists y escenarios de prueba accionables.
+- **Herramientas de IA:** Integración de flujos de trabajo con ChatGPT, Make y automatización de procesos.
+
 ### 🛠️ Languages & Tools
 <p align="left">
   <!-- Gestión & QA -->
