@@ -127,8 +127,8 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
   <a href="mailto:mponguta@yahoo.com" title="Email">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://discord.com" target="_blank" title="Discord: TU_USUARIO_AQUI">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord marioponguta_23864" height="30" width="40" />
+  <a href="https://discord.com" target="_blank" title="Discord:marioponguta_23864">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
