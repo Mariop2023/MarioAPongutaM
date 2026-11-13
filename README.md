@@ -115,17 +115,20 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mario-alberto-ponguta-monroy-82aba235/" target="_blank">
+  <a href="https://www.linkedin.com/in/mario-alberto-ponguta-monroy-82aba235/" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/mariopongutam" target="_blank">
+  <a href="https://www.facebook.com/mariopongutam" target="_blank" title="Facebook">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/carrosinrollos" target="_blank">
+  <a href="https://instagram.com/carrosinrollos" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:mponguta@yahoo.com">
+  <a href="mailto:mponguta@yahoo.com" title="Email">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://discord.com" target="_blank" title="Discord: TU_USUARIO_AQUI">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord marioponguta_23864" height="30" width="40" />
   </a>
 </p>
 
