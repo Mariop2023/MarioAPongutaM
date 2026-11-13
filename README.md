@@ -17,13 +17,13 @@
 <img width="1280" height="270" alt="Banner GITHUB Mario Ponguta skills tech 3" src="https://github.com/user-attachments/assets/166d0104-911d-40ae-a335-6bc9e889fc55" />
 
 ### 🚀 Current Focus
-- 🔭 **Working on**: [Carro Sin Rollos](http://carrosinrollos.com.co/) (Controlled Launch 2026)
+- 🔭 **Working on**: [Carro Sin Rollos](http://carrosinrollos.com.co/)
 - 🌱 **Learning**: QA Automation & AI Agents
 - 🤝 **Looking to collaborate on**: [QATURN Sales Assistant AI](https://bit.ly/3WB2Amg)
 - 💬 **Ask me about**: Digital Transformation, Agile/Scrum, API Testing & QA Strategy
 
 ### 📂 Featured Projects
-- 👨‍💻 [Current Projects Board](https://github.com/Mariop2023/MarioAPongutaM/projects)
+- 👨‍💻 [Current Projects Board](https://github.com/Mariop2023/MarioAPongutaM/projects) featuring test cases, scripts, and real-world projects.
 - 🎨 [Portfolio & Visual Presentations](https://www.canva.com/design/DAGIhgggHl8/n3JwrzwT3ZIvlnZFH_JorA/watch)
 
 
