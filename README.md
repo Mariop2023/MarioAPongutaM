@@ -49,6 +49,7 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 - **Rol:** Product Owner | Project Manager | QA Manual  
 - **Período:** 2024 – Actualidad  
 - **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos, preparar respuestas y automatizar el seguimiento comercial con IA y QA para escalar sus ventas entre un 25% y un 30%. Integrable con su CRM actual.
+- **Stack & Herramientas:** ChatGPT, OPen AI, Make, Hoppscotch, Gestión Ágil (Jira, Notion), Pruebas de API (Postman), Análisis de Frontend.
 
 Selección de proyectos destacados en Gestión de Proyectos, Transformación Digital, QA e Innovación. 
 
