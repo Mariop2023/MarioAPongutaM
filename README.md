@@ -124,7 +124,7 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
   <a href="https://instagram.com/carrosinrollos" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:mponguta@yahoo.com" title="Email">
+  <a href="mailto:mponguta@yahoo.com?subject=Contacto%20desde%20GitHub%20-%20Mario%20Ponguta" title="Enviar correo a mponguta@yahoo.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://discord.com" target="_blank" title="Discord:marioponguta_23864">
