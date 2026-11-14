@@ -37,7 +37,7 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 
 ### **Carro Sin Rollos**
 - **Rol:** Product Owner | Project Manager | QA Manual  
-- **Período:** 2024 – Actualidad (Lanzamiento controlado: Diciembre 2026)  
+- **Período:** 2026 – Actualidad (Lanzamiento controlado: Diciembre 2026)  
 - **Descripción:** Plataforma digital innovadora en el sector automotriz que utiliza Inteligencia Artificial para brindar recomendaciones claras, transparentes y respaldadas en datos durante la compra de vehículos usados.  
 - **Responsabilidades:**  
   - Liderazgo del roadmap del producto y gestión priorizada del backlog.  
@@ -47,7 +47,7 @@ Selección de proyectos destacados en Gestión de Proyectos, Transformación Dig
 
 ### **QATURN Sales Assistant AI**
 - **Rol:** Product Owner | Project Manager | QA Manual  
-- **Período:** 2024 – Actualidad  
+- **Período:** 2026 – Actualidad  
 - **Descripción:** Asistente de ventas impulsado por IA diseñado para ayudar a pequeñas empresas e independientes a organizar prospectos, preparar respuestas y automatizar el seguimiento comercial con IA y QA para escalar sus ventas entre un 25% y un 30%. Integrable con su CRM actual.
 - **Stack & Herramientas:** ChatGPT, OPen AI, Make, Hoppscotch, Gestión Ágil (Jira, Notion), Pruebas de API (Postman), Análisis de Frontend.
 
